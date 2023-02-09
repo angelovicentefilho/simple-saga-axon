@@ -1,0 +1,4 @@
+def commons = !common_local.toBoolean() ? 'br.com.sansys.services.sansys.smart.meter:sansys-smart-meter-hydrometer-commons:1.0.0' : project(":$common_name")
+ext.projects = [
+        "core": commons,
+]

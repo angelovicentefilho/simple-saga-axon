@@ -1,0 +1,6 @@
+rootProject.name = 'shipping-sagas'
+
+if (common_local.toBoolean()) {
+    include ":$common_name"
+    project(":$common_name").projectDir = new File("$common_folder", "$common_name")
+}

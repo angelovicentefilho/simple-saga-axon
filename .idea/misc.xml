@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/core-api" />
+    <file type="web" url="file://$PROJECT_DIR$/order-sagas" />
+    <file type="web" url="file://$PROJECT_DIR$/payment-sagas" />
+    <file type="web" url="file://$PROJECT_DIR$/shipping-sagas" />
+    <file type="web" url="file:///run/media/angelo/Outworld5/clients/particular/saga-axon/core-api" />
+    <file type="web" url="file:///run/media/angelo/Outworld5/clients/particular/saga-axon/order-sagas" />
+    <file type="web" url="file:///run/media/angelo/Outworld5/clients/particular/saga-axon/payment-sagas" />
+    <file type="web" url="file:///run/media/angelo/Outworld5/clients/particular/saga-axon/shipping-sagas" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

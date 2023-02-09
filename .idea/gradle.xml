@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core-api" />
+        <option name="gradleHome" value="/usr/local/gradle" />
+        <option name="modules">
+          <set>
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/core-api" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/order-sagas" />
+        <option name="gradleHome" value="/usr/local/gradle" />
+        <option name="modules">
+          <set>
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/core-api" />
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/order-sagas" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-sagas" />
+        <option name="gradleHome" value="/usr/local/gradle" />
+        <option name="modules">
+          <set>
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/core-api" />
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/payment-sagas" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/shipping-sagas" />
+        <option name="gradleHome" value="/usr/local/gradle" />
+        <option name="modules">
+          <set>
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/core-api" />
+            <option value="/run/media/angelo/Outworld5/clients/particular/saga-axon/shipping-sagas" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
